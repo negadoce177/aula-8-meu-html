@@ -32,4 +32,4 @@ img {
 }
 .categoria h2 {
     color: rgb(42, 122, 228);
-}
+} 
